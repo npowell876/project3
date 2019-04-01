@@ -1,0 +1,84 @@
+#logo {
+	font-family: cursive;
+	font-size: 60pt;
+	text-align: center;
+	color: rgba(246, 237, 216, 1);
+	display: inline-block;
+	padding: 300px 100px;
+	margin: 0;
+
+}
+
+#bg {
+	background-color: #7abdbd;
+	background-size: cover;
+	text-align: center;
+
+}
+
+.links {
+	display: inline-block;
+	font-family: Andale Mono;
+	font-size: 20pt;
+	text-decoration: inherit;
+}
+
+a {
+	color: #F6EDD8;
+	text-decoration-line: none;
+}
+
+#bbg {
+	background-color: #737373;
+	background-size: cover;
+	text-align: center;
+	height: 2000px;
+}
+
+.box {
+	border: 2px solid white;
+	padding: 10px;
+	border-radius: 50px;
+	width: 300px;
+	height: 5px;
+}
+
+.boxm {
+	height: 150px;
+	border: 2px solid white;
+	padding: 10px;
+	border-radius: 20px;
+	width: 300px;
+}
+
+.contact {
+	display: inline-block;
+	font-family: Ayuthaya;
+	font-size: 50px;
+	color: #F6EDD8;
+	padding: 400px bottom;
+}
+
+.submit {
+	font-family: monospace;
+	font-size: 100px;
+	color: #737373;
+
+}
+
+#social {
+	font-family: cursive;
+	font-size: 90pt;
+	text-align: center;
+	text-decoration: underline;
+	color: #7abdbd;
+	display: inline-block;
+	padding: 200px 100px;
+}
+
+#all {
+	padding-top: 100px;
+}
+
+
+
